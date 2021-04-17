@@ -1,0 +1,10 @@
+C:\Users\Knify\source\repos\NaRTaS\NaRTaS\bin\Release\NaRTaS.exe.config
+C:\Users\Knify\source\repos\NaRTaS\NaRTaS\bin\Release\NaRTaS.exe
+C:\Users\Knify\source\repos\NaRTaS\NaRTaS\bin\Release\NaRTaS.pdb
+C:\Users\Knify\source\repos\NaRTaS\NaRTaS\obj\Release\NaRTaS.csprojAssemblyReference.cache
+C:\Users\Knify\source\repos\NaRTaS\NaRTaS\obj\Release\NaRTaS.Form1.resources
+C:\Users\Knify\source\repos\NaRTaS\NaRTaS\obj\Release\NaRTaS.Properties.Resources.resources
+C:\Users\Knify\source\repos\NaRTaS\NaRTaS\obj\Release\NaRTaS.csproj.GenerateResource.cache
+C:\Users\Knify\source\repos\NaRTaS\NaRTaS\obj\Release\NaRTaS.csproj.CoreCompileInputs.cache
+C:\Users\Knify\source\repos\NaRTaS\NaRTaS\obj\Release\NaRTaS.exe
+C:\Users\Knify\source\repos\NaRTaS\NaRTaS\obj\Release\NaRTaS.pdb
