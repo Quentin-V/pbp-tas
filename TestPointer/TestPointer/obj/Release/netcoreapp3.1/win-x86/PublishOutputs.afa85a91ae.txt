@@ -1,2 +1,0 @@
-C:\Users\Knify\source\repos\TestPointer\TestPointer\bin\publish\TestPointer.pdb
-C:\Users\Knify\source\repos\TestPointer\TestPointer\bin\publish\TestPointer.exe
